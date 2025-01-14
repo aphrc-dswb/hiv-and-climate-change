@@ -7,7 +7,7 @@ This repository documents the implementation of a reproducible workflow for test
 ## Project Goals:
 
 1. **Test OHDSI GIS Extension**  
-   Evaluate the [OHDSI GIS extension](https://www.ohdsi.org) to integrate climate data and SDoH with clinical and population health data within the OMOP Common Data Model (CDM).
+   Evaluate the [OHDSI GIS extension](https://github.com/OHDSI/GIS/issues/367) to integrate climate data and SDoH with clinical and population health data within the OMOP Common Data Model (CDM).
    
 2. **Evaluate OHDSI Containers**  
    Assess the new set of OHDSI containers, including:
