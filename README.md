@@ -1,7 +1,7 @@
 # HIV and Climate Change Working Group
 This repository documents the implementation of a reproducible workflow for testing and building a research platform integrating health, climate, and social determinants of health (SDoH) data. The project leverages schemas from [schema.org](https://schema.org) to ensure structured metadata and applies FAIR principles (Findable, Accessible, Interoperable, and Reusable) to all aspects of the work.
 
-![Placeholder for Image](images/project-diagram.png)  
+![Uploading containerized_applications.png…]()
 
 
 
