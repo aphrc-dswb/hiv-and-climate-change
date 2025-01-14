@@ -1,14 +1,8 @@
 # HIV and Climate Change Working Group
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-*This is a template for setting up a research or data science project online, such as on GitHub.*
 
 ## About this Repository
-
-This repository operationalises The Turing Way recommendations for structuring project repositories to support reproducibility in data science projects.
-This repository includes files and directories recommended for enabling reproducibility and collaboration in a project, as well as sharing of research objects.
+This repository documents the implementation of a reproducible workflow for testing and building a research platform integrating health, climate, and social determinants of health (SDoH) data. The project leverages schemas from schema.org to ensure structured metadata and applies FAIR principles (Findable, Accessible, Interoperable, and Reusable) to all aspects of the work
 
 This repository follows the recommendations and guidance provided in *[The Turing Way](https://the-turing-way.netlify.app/welcome)* handbook to data science.
 When reusing this repository, please update the information on your README page with information about your project.
