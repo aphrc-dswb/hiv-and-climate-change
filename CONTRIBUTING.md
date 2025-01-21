@@ -4,13 +4,9 @@ Thank you for taking the time to contribute to this project. 🎉
 
 <!--delete sentences below when reusing this repository-->
 
-When reusing this repository please replace the content highlighted in bold with the information that best represents your project.
-As a template, this repository can be directly copied to start a new project with standard files and processes required in any collaborative data science and research project.
-Although we also use open research practices by sharing this repository public for further reuse in different projects, users can select the appropriate license and access levels for their collaborators.
+[add brief description of the project]
 
-To learn more about why we recommend creating a `CONTRIBUTING.md` file, please read the [Contributors and Communication Pathways chapter](https://the-turing-way.netlify.app/project-design/project-repo/project-repo-contributors.html) in *The Turing Way* Guide for Project Design.
 
-<!--delete sentences above this line when reusing this repository-->
 
 The **Reproducible Project Template** repository is developed under ***[The Turing Way](https://github.com/alan-turing-institute/the-turing-way)* to demonstrate the practical integration of reproducibility practices on the collaborative or shared online repository**.
 
